@@ -30,5 +30,6 @@ For example, if Team A was playing at home in a sport with a 1.5-point home fiel
 
 sportssim.multisim(1000,TeamA,TeamB,1.5,-5)
 
+If you are not interested in who will cover, but just want to see a team's probability of winning, set the point spread to 0. 
 
 Credit: https://www.playingnumbers.com/2019/12/how-to-simulate-nba-games-in-python/
