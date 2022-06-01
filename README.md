@@ -2,7 +2,6 @@ This package allows a user to simulate the results of a sporting event using the
 
 The inputs are the points per game average, points per game standard deviation, points allowed per game average and points allowed standard deviation for the home team, the same metrics for the visiting team, the homefield advantage and the point spread.
 
-
 **Instructions**
 
 To begin, install the package.
@@ -33,6 +32,6 @@ For example, if Team A was playing at home in a sport with a 1.5-point home fiel
 
 sportssim.multisim(1000,TeamA,TeamB,1.5,-5)
 
-If you are not interested in who will cover, but just want to see a team's probability of winning, set the point spread to 0. 
+If you are not interested in who will cover, but just want to see a team's probability of winning, set the point spread to 0.
 
 Credit: https://www.playingnumbers.com/2019/12/how-to-simulate-nba-games-in-python/
